@@ -18,8 +18,6 @@ class Song
     @@songs
   end
 
-  end
-
   def artist=(artist)
     @artist = artist
   end
