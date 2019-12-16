@@ -1,5 +1,5 @@
 require 'pry'
-require './memorable'
+require_relative './memorable'
 class Artist
   attr_accessor :name
   attr_reader :songs
