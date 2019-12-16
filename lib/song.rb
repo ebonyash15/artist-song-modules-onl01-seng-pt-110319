@@ -1,5 +1,5 @@
 require 'pry'
-
+require './memorable.rb'
 class Song
   attr_accessor :name
   attr_reader :artist
